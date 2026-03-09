@@ -1,12 +1,35 @@
-# C Programs
+# C Programming Projects
 
 ## About This Repository
 
-This repository contains basic and beginner-friendly C programs created to understand
-the fundamentals of C programming. These programs are part of my learning journey and
-cover essential concepts used in introductory programming courses.
+This repository contains small but logic-focused projects built using the C programming language.
+The goal of these projects is to practice problem solving, structured programming, and core C concepts through practical implementations.
 
-## Purpose 
-This repository is maintained for academic practice, self-learning, and to build a
-strong foundation in C programming. All programs are written in a simple and
-easy-to-understand manner.
+Instead of basic syntax exercises, these programs focus on building real program flows, handling user input, and designing simple systems.
+
+
+## Technologies Used
+
+Language: C
+
+Compiler: GCC / Any standard C compiler
+
+Environment: Command Line / Terminal
+
+
+## Learning Goals
+
+These projects were created to strengthen:
+
+- Logical thinking
+
+- Structured programming
+
+- Problem decomposition
+
+- Designing small software systems
+
+- Working with real program flow
+
+
+⭐ If you found these projects helpful for learning C programming, feel free to star the repository.
